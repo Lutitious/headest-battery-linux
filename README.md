@@ -12,3 +12,5 @@ To install this first you need to make sure HeadsetControl is installed, then yo
     sudo cp run.sh /usr/bin/headset-battery
 
 You can then run the application by running `headset-battery` in a terminal.
+
+While this is not tested under macOS i dont see why it would not run well but i wouldnt know how to integrate it into the system
