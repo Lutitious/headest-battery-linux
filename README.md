@@ -8,6 +8,7 @@ It is designed to be used via polling through some system utility such as on gno
 To install this first you need to make sure HeadsetControl is installed, then you can install this application by running the following commands:
 
     git clone https://github.com/Lutitious/headset-battery-linux.git && cd headset-battery-linux
+    chmod +x run.sh
     cp run.sh /usr/bin/headset-battery
 
 You can then run the application by running `headset-battery` in a terminal.
